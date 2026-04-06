@@ -223,4 +223,4 @@ git push origin тип/назва-вашої-гілки
 
 ---
 
-> Останнє оновлення: березень 2026 • Maintainer: [@RomanGulevatiy](https://github.com/RomanGulevatiy)
+> Останнє оновлення: квітень 2026 • Maintainer: [@RomanGulevatiy](https://github.com/RomanGulevatiy)
